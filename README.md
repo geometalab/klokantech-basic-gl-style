@@ -1,4 +1,7 @@
-# Klokantech Basic
+# Swiss Basic Tourism
+
+A basemap style (derived from Klokantech Basic) which is optimized for touristic maps, uses Mapbox GL JS and is based on the vector tile schema of OpenMapTiles.
+
 [![Build Status](https://travis-ci.org/openmaptiles/klokantech-basic-gl-style.svg?branch=master)](https://travis-ci.org/openmaptiles/klokantech-basic-gl-style)
 
 A Mapbox GL basemap style it is using the vector tile
