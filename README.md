@@ -4,4 +4,4 @@ A basemap style (derived from Klokantech Basic) which is optimized for touristic
 
 ## Edit the Style
 
-tba.
+See https://github.com/geometalab/swiss-basic-tourism-gl-style/wiki/Anleitung-zum-Editieren-eines-Kartenstils-mit-Maputnik (german).
